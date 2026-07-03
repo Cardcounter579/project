@@ -277,7 +277,7 @@ export default function App() {
     <div className="h-screen flex flex-col bg-slate-950 font-sans overflow-hidden">
       {/* 1. TOP HEADER NAVIGATION */}
       <header id="main-header" className="border-b border-slate-900/80 bg-slate-950/80 backdrop-blur-md sticky top-0 z-50 px-6 py-4 flex items-center justify-between">
-        <BrandLogo size="md" showWordmark tagline="Powering Tech Team Matching" />
+        <BrandLogo size="md" showWordmark tagline="Build with the right people" />
 
         {/* Navigation Tabs */}
         {profile && (

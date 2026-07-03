@@ -6,7 +6,7 @@ import { JSONDatabase, hashPassword } from "./server_db";
 import { ARCHETYPES, calculateMatchScore, predictArchetype } from "./src/ml_artifacts";
 
 const app = express();
-const PORT = 3000;
+const PORT = Number(process.env.PORT) || 3000;
 const SECRET_KEY = process.env.JWT_SECRET || "super-secret-key-zetwork-2026";
 
 app.use(express.json());

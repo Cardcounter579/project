@@ -53,7 +53,7 @@ export default function AuthCard({ onAuthSuccess }: AuthCardProps) {
       <div className="absolute -bottom-24 -left-24 w-48 h-48 bg-purple-500/10 rounded-full blur-3xl pointer-events-none" />
 
       <div className="flex justify-center mb-8 relative">
-        <BrandLogo size="lg" showWordmark tagline="Powering Tech Team Matching" />
+        <BrandLogo size="lg" showWordmark tagline="Build with the right people" />
       </div>
 
       {/* Tabs */}
