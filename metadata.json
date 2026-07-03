@@ -1,0 +1,6 @@
+{
+  "name": "Zetwork",
+  "description": "Developer team-matching platform with offline ML archetype clustering, zodiac element harmony, and interactive constellation visualizer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python3 *)",
+      "Bash(npm install *)",
+      "Bash(npm run *)",
+      "Bash(command -v soffice libreoffice)",
+      "Bash(pip3 install *)",
+      "Bash(mdls -name kMDItemNumberOfPages Zetwork.pdf)",
+      "Bash(break)",
+      "Bash(curl -s -o /dev/null -w \"HTTP %{http_code}\\\\n\" http://localhost:3000/)"
+    ]
+  }
+}

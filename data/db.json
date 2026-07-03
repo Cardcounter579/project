@@ -1,0 +1,443 @@
+{
+  "users": [
+    {
+      "id": "seed-1",
+      "email": "baterdene@zetwork.mn",
+      "passwordHash": "94b14a94c867e1bb828e63d762369e3f8fdde005fd79bcfdc4a5a12c9282c126870d359527c044b310de7ad469cd6736294c6e7da051eddbcfd679e280cce3bb",
+      "createdAt": "2026-07-03T07:31:53.488Z"
+    },
+    {
+      "id": "seed-2",
+      "email": "oyunbileg@zetwork.mn",
+      "passwordHash": "94b14a94c867e1bb828e63d762369e3f8fdde005fd79bcfdc4a5a12c9282c126870d359527c044b310de7ad469cd6736294c6e7da051eddbcfd679e280cce3bb",
+      "createdAt": "2026-07-03T07:31:53.488Z"
+    },
+    {
+      "id": "seed-3",
+      "email": "temuulen@zetwork.mn",
+      "passwordHash": "94b14a94c867e1bb828e63d762369e3f8fdde005fd79bcfdc4a5a12c9282c126870d359527c044b310de7ad469cd6736294c6e7da051eddbcfd679e280cce3bb",
+      "createdAt": "2026-07-03T07:31:53.488Z"
+    },
+    {
+      "id": "seed-4",
+      "email": "nomin@zetwork.mn",
+      "passwordHash": "94b14a94c867e1bb828e63d762369e3f8fdde005fd79bcfdc4a5a12c9282c126870d359527c044b310de7ad469cd6736294c6e7da051eddbcfd679e280cce3bb",
+      "createdAt": "2026-07-03T07:31:53.488Z"
+    },
+    {
+      "id": "seed-5",
+      "email": "ganbat@zetwork.mn",
+      "passwordHash": "94b14a94c867e1bb828e63d762369e3f8fdde005fd79bcfdc4a5a12c9282c126870d359527c044b310de7ad469cd6736294c6e7da051eddbcfd679e280cce3bb",
+      "createdAt": "2026-07-03T07:31:53.488Z"
+    },
+    {
+      "id": "seed-6",
+      "email": "saraa@zetwork.mn",
+      "passwordHash": "94b14a94c867e1bb828e63d762369e3f8fdde005fd79bcfdc4a5a12c9282c126870d359527c044b310de7ad469cd6736294c6e7da051eddbcfd679e280cce3bb",
+      "createdAt": "2026-07-03T07:31:53.488Z"
+    },
+    {
+      "id": "seed-7",
+      "email": "bolormaa@zetwork.mn",
+      "passwordHash": "94b14a94c867e1bb828e63d762369e3f8fdde005fd79bcfdc4a5a12c9282c126870d359527c044b310de7ad469cd6736294c6e7da051eddbcfd679e280cce3bb",
+      "createdAt": "2026-07-03T07:31:53.488Z"
+    },
+    {
+      "id": "seed-8",
+      "email": "enkhbayar@zetwork.mn",
+      "passwordHash": "94b14a94c867e1bb828e63d762369e3f8fdde005fd79bcfdc4a5a12c9282c126870d359527c044b310de7ad469cd6736294c6e7da051eddbcfd679e280cce3bb",
+      "createdAt": "2026-07-03T07:31:53.488Z"
+    },
+    {
+      "id": "seed-9",
+      "email": "munkhzul@zetwork.mn",
+      "passwordHash": "94b14a94c867e1bb828e63d762369e3f8fdde005fd79bcfdc4a5a12c9282c126870d359527c044b310de7ad469cd6736294c6e7da051eddbcfd679e280cce3bb",
+      "createdAt": "2026-07-03T07:31:53.488Z"
+    },
+    {
+      "id": "seed-10",
+      "email": "tsetseg@zetwork.mn",
+      "passwordHash": "94b14a94c867e1bb828e63d762369e3f8fdde005fd79bcfdc4a5a12c9282c126870d359527c044b310de7ad469cd6736294c6e7da051eddbcfd679e280cce3bb",
+      "createdAt": "2026-07-03T07:31:53.488Z"
+    },
+    {
+      "id": "fb0d33ff-ca82-43aa-9c8e-f47611a6d19b",
+      "email": "boldbaatarbolor17@gmail.com",
+      "passwordHash": "5b16c99cb91476bee68e358b0bc1e6bb6eeb15917fce42ca69acb08a3dbf9855fef33bc95d4cedef72e1389b1f529a27921663b5e8ce385f0a46d0736cff4d7e",
+      "createdAt": "2026-07-01T11:25:31.105Z"
+    },
+    {
+      "id": "937be2c3-9f09-4e77-b643-d71fe553312b",
+      "email": "yesuukhei1028@gmail.com",
+      "passwordHash": "ddd26d3554aa820d2337522d7501ce002f18a49e69fe26bb5c93228c8f7151c9257724376486f5b87bf0ed702366d9bf59ee21ff7d2986ca2aa189c403a43c6c",
+      "createdAt": "2026-07-03T06:44:26.394Z"
+    },
+    {
+      "id": "990f73f8-c777-4ad9-a987-e54d380a9909",
+      "email": "yesuu1028@gmail.com",
+      "passwordHash": "ddd26d3554aa820d2337522d7501ce002f18a49e69fe26bb5c93228c8f7151c9257724376486f5b87bf0ed702366d9bf59ee21ff7d2986ca2aa189c403a43c6c",
+      "createdAt": "2026-07-03T07:04:09.373Z"
+    }
+  ],
+  "profiles": [
+    {
+      "userId": "seed-1",
+      "displayName": "Бат-Эрдэнэ",
+      "languages": [
+        "Go",
+        "PostgreSQL",
+        "SQL",
+        "Docker"
+      ],
+      "interests": [
+        "Backend",
+        "Databases",
+        "System Design"
+      ],
+      "buildGoal": "Building a QR payment and wallet API for small shops in Ulaanbaatar with scalable backend architecture and low latency.",
+      "zodiacSign": "Capricorn",
+      "zodiacElement": "Earth",
+      "archetypeId": "architect",
+      "updatedAt": "2026-07-03T07:31:53.488Z"
+    },
+    {
+      "userId": "seed-2",
+      "displayName": "Оюунбилэг",
+      "languages": [
+        "TypeScript",
+        "React",
+        "CSS",
+        "Tailwind",
+        "Motion"
+      ],
+      "interests": [
+        "Frontend",
+        "UI/UX",
+        "Design",
+        "Animations"
+      ],
+      "buildGoal": "Designing a beautiful booking website for Mongolian ger camps and domestic tourism with fluid animations and mobile-first UI.",
+      "zodiacSign": "Libra",
+      "zodiacElement": "Air",
+      "archetypeId": "pixel",
+      "updatedAt": "2026-07-03T07:31:53.488Z"
+    },
+    {
+      "userId": "seed-3",
+      "displayName": "Тэмүүлэн",
+      "languages": [
+        "Python",
+        "PyTorch",
+        "SQL",
+        "JavaScript"
+      ],
+      "interests": [
+        "AI",
+        "Machine Learning",
+        "Data Science"
+      ],
+      "buildGoal": "Training a model to forecast air pollution levels in Ulaanbaatar using open weather and traffic datasets.",
+      "zodiacSign": "Scorpio",
+      "zodiacElement": "Water",
+      "archetypeId": "oracle",
+      "updatedAt": "2026-07-03T07:31:53.488Z"
+    },
+    {
+      "userId": "seed-4",
+      "displayName": "Номин",
+      "languages": [
+        "TypeScript",
+        "JavaScript",
+        "React",
+        "HTML",
+        "CSS"
+      ],
+      "interests": [
+        "MVP",
+        "Startups",
+        "Rapid Prototyping",
+        "Hackathons"
+      ],
+      "buildGoal": "Launching a fast MVP marketplace for Mongolian handmade cashmere products with rapid prototyping and quick deployment.",
+      "zodiacSign": "Leo",
+      "zodiacElement": "Fire",
+      "archetypeId": "maverick",
+      "updatedAt": "2026-07-03T07:31:53.488Z"
+    },
+    {
+      "userId": "seed-5",
+      "displayName": "Ганбат",
+      "languages": [
+        "Linux",
+        "Bash",
+        "Docker",
+        "Kubernetes",
+        "Go"
+      ],
+      "interests": [
+        "DevOps",
+        "Cloud",
+        "Security",
+        "Linux"
+      ],
+      "buildGoal": "Setting up secure CI/CD pipelines and container infrastructure for a Mongolian mining-tech SaaS platform.",
+      "zodiacSign": "Virgo",
+      "zodiacElement": "Earth",
+      "archetypeId": "architect",
+      "updatedAt": "2026-07-03T07:31:53.488Z"
+    },
+    {
+      "userId": "seed-6",
+      "displayName": "Сараа",
+      "languages": [
+        "JavaScript",
+        "React",
+        "CSS",
+        "Tailwind"
+      ],
+      "interests": [
+        "Frontend",
+        "UI/UX",
+        "Design"
+      ],
+      "buildGoal": "Creating an interactive e-learning platform UI for Mongolian high school students with clean design and animations.",
+      "zodiacSign": "Cancer",
+      "zodiacElement": "Water",
+      "archetypeId": "pixel",
+      "updatedAt": "2026-07-03T07:31:53.488Z"
+    },
+    {
+      "userId": "seed-7",
+      "displayName": "Болормаа",
+      "languages": [
+        "Java",
+        "SQL",
+        "PostgreSQL",
+        "GraphQL"
+      ],
+      "interests": [
+        "Backend",
+        "Databases",
+        "System Design"
+      ],
+      "buildGoal": "Developing a citizen services portal backend for government forms with secure database design and system architecture.",
+      "zodiacSign": "Taurus",
+      "zodiacElement": "Earth",
+      "archetypeId": "architect",
+      "updatedAt": "2026-07-03T07:31:53.488Z"
+    },
+    {
+      "userId": "seed-8",
+      "displayName": "Энхбаяр",
+      "languages": [
+        "JavaScript",
+        "React",
+        "TypeScript",
+        "CSS"
+      ],
+      "interests": [
+        "MVP",
+        "Startups",
+        "Hackathons",
+        "Rapid Prototyping"
+      ],
+      "buildGoal": "Building a hackathon project that matches freelance developers with local startups in Mongolia — ship fast, launch in days.",
+      "zodiacSign": "Aries",
+      "zodiacElement": "Fire",
+      "archetypeId": "maverick",
+      "updatedAt": "2026-07-03T07:31:53.488Z"
+    },
+    {
+      "userId": "seed-9",
+      "displayName": "Мөнхзул",
+      "languages": [
+        "Python",
+        "SQL",
+        "JavaScript"
+      ],
+      "interests": [
+        "Data Science",
+        "Statistics",
+        "AI",
+        "Machine Learning"
+      ],
+      "buildGoal": "Analyzing livestock and herder market data for a Mongolian NGO dashboard with predictions and data science insights.",
+      "zodiacSign": "Pisces",
+      "zodiacElement": "Water",
+      "archetypeId": "oracle",
+      "updatedAt": "2026-07-03T07:31:53.488Z"
+    },
+    {
+      "userId": "seed-10",
+      "displayName": "Цэцэг",
+      "languages": [
+        "Rust",
+        "Linux",
+        "Docker",
+        "Bash"
+      ],
+      "interests": [
+        "Security",
+        "DevOps",
+        "Cloud"
+      ],
+      "buildGoal": "Hardening cloud security and deployment pipelines for a fintech startup serving rural banking customers in Mongolia.",
+      "zodiacSign": "Aquarius",
+      "zodiacElement": "Air",
+      "archetypeId": "architect",
+      "updatedAt": "2026-07-03T07:31:53.488Z"
+    },
+    {
+      "userId": "fb0d33ff-ca82-43aa-9c8e-f47611a6d19b",
+      "displayName": "Boldbaatar Bolor",
+      "languages": [
+        "Python",
+        "PostgreSQL",
+        "CSS",
+        "Rust",
+        "Go",
+        "Tailwind",
+        "Bash",
+        "Docker",
+        "TypeScript",
+        "Kubernetes",
+        "JavaScript",
+        "C++",
+        "Java",
+        "SQL",
+        "HTML"
+      ],
+      "interests": [
+        "Frontend",
+        "Backend",
+        "Design",
+        "Databases",
+        "AI",
+        "Machine Learning",
+        "Data Science",
+        "Statistics",
+        "UI/UX",
+        "Animations",
+        "System Design",
+        "Security",
+        "DevOps",
+        "Cloud",
+        "Linux",
+        "MVP",
+        "Startups",
+        "Rapid Prototyping",
+        "Hackathons"
+      ],
+      "buildGoal": "Build a computer vision furniture placing AI app",
+      "zodiacSign": "Scorpio",
+      "zodiacElement": "Water",
+      "archetypeId": "maverick",
+      "updatedAt": "2026-07-03T05:39:29.752Z"
+    },
+    {
+      "userId": "937be2c3-9f09-4e77-b643-d71fe553312b",
+      "displayName": "yesuukhei",
+      "languages": [
+        "JavaScript"
+      ],
+      "interests": [
+        "UI/UX",
+        "Frontend"
+      ],
+      "buildGoal": "i want to build modern, high-quality designed pages",
+      "zodiacSign": "Scorpio",
+      "zodiacElement": "Water",
+      "archetypeId": "pixel",
+      "updatedAt": "2026-07-03T06:52:59.193Z"
+    },
+    {
+      "userId": "990f73f8-c777-4ad9-a987-e54d380a9909",
+      "displayName": "yesuu123",
+      "languages": [
+        "JavaScript"
+      ],
+      "interests": [
+        "Design",
+        "UI/UX"
+      ],
+      "buildGoal": "ok",
+      "zodiacSign": "Aries",
+      "zodiacElement": "Fire",
+      "archetypeId": "pixel",
+      "updatedAt": "2026-07-03T07:05:02.757Z"
+    }
+  ],
+  "connections": [
+    {
+      "fromUserId": "seed-2",
+      "toUserId": "seed-1",
+      "status": "accepted",
+      "createdAt": "2026-07-03T07:31:53.488Z",
+      "updatedAt": "2026-07-03T07:31:53.488Z"
+    },
+    {
+      "fromUserId": "937be2c3-9f09-4e77-b643-d71fe553312b",
+      "toUserId": "fb0d33ff-ca82-43aa-9c8e-f47611a6d19b",
+      "createdAt": "2026-07-03T06:54:50.493Z",
+      "status": "accepted"
+    },
+    {
+      "fromUserId": "990f73f8-c777-4ad9-a987-e54d380a9909",
+      "toUserId": "937be2c3-9f09-4e77-b643-d71fe553312b",
+      "status": "accepted",
+      "createdAt": "2026-07-03T07:05:21.469Z",
+      "updatedAt": "2026-07-03T07:05:48.618Z"
+    }
+  ],
+  "messages": [
+    {
+      "id": "44057388-de76-4800-bb6b-21333f43c05a",
+      "fromUserId": "seed-2",
+      "toUserId": "seed-1",
+      "text": "Сайн уу! Танай төлбөрийн API-д frontend холбох гэсэн юм. Хамтрах уу?",
+      "createdAt": "2026-07-03T07:31:53.488Z"
+    },
+    {
+      "id": "8c56506f-d57d-4a04-b81a-62c352aa52cc",
+      "fromUserId": "seed-1",
+      "toUserId": "seed-2",
+      "text": "Сайн байна уу! Тийм ээ, маргааш ярилцъя.",
+      "createdAt": "2026-07-03T07:31:53.488Z"
+    },
+    {
+      "id": "5396d9b7-5647-43b3-8d61-8acf6365c411",
+      "fromUserId": "937be2c3-9f09-4e77-b643-d71fe553312b",
+      "toUserId": "990f73f8-c777-4ad9-a987-e54d380a9909",
+      "text": "hi",
+      "createdAt": "2026-07-03T07:12:36.091Z"
+    },
+    {
+      "id": "6d6929bb-2cde-4ec6-ad3e-e7b7aa9f425b",
+      "fromUserId": "937be2c3-9f09-4e77-b643-d71fe553312b",
+      "toUserId": "990f73f8-c777-4ad9-a987-e54d380a9909",
+      "text": "hello",
+      "createdAt": "2026-07-03T07:12:44.156Z"
+    },
+    {
+      "id": "223259fb-fb4b-4251-b226-5eff603ad771",
+      "fromUserId": "937be2c3-9f09-4e77-b643-d71fe553312b",
+      "toUserId": "990f73f8-c777-4ad9-a987-e54d380a9909",
+      "text": "sadfsadf",
+      "createdAt": "2026-07-03T07:13:19.740Z"
+    },
+    {
+      "id": "b91d1906-33c3-41d5-9df6-51fabb01c865",
+      "fromUserId": "937be2c3-9f09-4e77-b643-d71fe553312b",
+      "toUserId": "990f73f8-c777-4ad9-a987-e54d380a9909",
+      "text": "hi",
+      "createdAt": "2026-07-03T07:14:59.028Z"
+    },
+    {
+      "id": "929b5dab-215a-4972-bb27-b216aa0b2827",
+      "fromUserId": "990f73f8-c777-4ad9-a987-e54d380a9909",
+      "toUserId": "937be2c3-9f09-4e77-b643-d71fe553312b",
+      "text": "hello",
+      "createdAt": "2026-07-03T07:15:20.144Z"
+    }
+  ]
+}
